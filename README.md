@@ -1,2 +1,2 @@
 # git_practice
-First line in the file.
+I am editing the README file. Adding some more details about the project description.
